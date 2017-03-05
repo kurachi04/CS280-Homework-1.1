@@ -1,0 +1,8 @@
+E:\Csharp\CS280-Homework\CS280-Homework-1.1.git\bin\Debug\CS280-Homework-1.1.git.exe.config
+E:\Csharp\CS280-Homework\CS280-Homework-1.1.git\bin\Debug\CS280-Homework-1.1.git.exe
+E:\Csharp\CS280-Homework\CS280-Homework-1.1.git\bin\Debug\CS280-Homework-1.1.git.pdb
+E:\Csharp\CS280-Homework\CS280-Homework-1.1.git\obj\Debug\CS280-Homework-1.1.git.exe
+E:\Csharp\CS280-Homework\CS280-Homework-1.1.git\obj\Debug\CS280-Homework-1.1.git.pdb
+E:\Csharp\CS280-Homework\CS280-Homework-1.1\bin\Debug\CS280-Homework-1.1.git.exe.config
+E:\Csharp\CS280-Homework\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.git.exe
+E:\Csharp\CS280-Homework\CS280-Homework-1.1\obj\Debug\CS280-Homework-1.1.git.pdb
